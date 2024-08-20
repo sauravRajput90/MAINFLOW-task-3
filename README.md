@@ -12,9 +12,9 @@ DURATION-25 July 2024 to 25 September 2024.
 Matplotlib is actually a very useful and multifunctional tool for creating the static, animated or interactive plots. It offers multiple plot, options and integration options in a simple and easy to use package.
 
 ## CORE CONCEPT
--__Figure__: The overall container for all plot elements.
--__Axes__: The plotting area where data is displayed.
--__Plot__: The visual representation of data, such as lines, markers, bars, etc.
+-__Figure__: The overall container for all plot elements.  
+-__Axes__: The plotting area where data is displayed.  
+-__Plot__: The visual representation of data, such as lines, markers, bars, etc.  
 
 ## Basic Plot Types
 Matplotlib supports a variety of plot types to suit different data characteristics:Matplotlib supports a variety of plot types to suit different data characteristics--
